@@ -1,4 +1,7 @@
-a = 2
-b = 3
+a = 12
+b = 6
+c = a/b
+d = a*b
 
-print(a+b)
+print(c)
+print(d)
